@@ -10,6 +10,9 @@ List of Departments page -
 Add Department page -
 ![image](https://github.com/user-attachments/assets/987e0683-f1f1-4259-8621-cba89effc74c)
 
+Edit Department page -
+![image](https://github.com/user-attachments/assets/62e527bb-bc56-4d85-b904-9e0f39c47f57)
+
 List of Employees page -
 ![image](https://github.com/user-attachments/assets/422de3d7-829f-4a6f-ba6a-b96eefc1bced)
 
