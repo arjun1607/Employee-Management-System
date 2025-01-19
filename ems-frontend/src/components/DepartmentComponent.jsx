@@ -14,9 +14,9 @@ const DepartmentComponent = () => {
 
   function pageTitle() {
     if (id) {
-      return <h2 className="text-center">Add Department</h2>;
-    } else {
       return <h2 className="text-center">Edit Department</h2>;
+    } else {
+      return <h2 className="text-center">Add Department</h2>;
     }
   }
 
